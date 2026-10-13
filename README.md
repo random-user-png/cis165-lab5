@@ -1,5 +1,12 @@
 # cis165-lab5
 
+| Program and test | Inputs | Expected results | Actual results | Match or correction |
+|---|---|---|---|---|
+| Compound interest — assigned | 1000, 4.25%, 12 | Your calculations | Your output | Your check |
+| Compound interest — changed | Your values | Your calculations | Your output | Your check |
+| Loan payment — assigned | 10000, 12%, 36 | Your calculations | Your output | Your check |
+| Loan payment — changed | Your values | Your calculations | Your output | Your check |
+
 A percentage must be divided by 100 before using it in a formula to get the value of the percentage as a decimal number.
 pow represents exponentiation as: pow(b, n), where b represents the base and n represents the exponent.
 The number of compounding periods changes the amount in the savings formula.
